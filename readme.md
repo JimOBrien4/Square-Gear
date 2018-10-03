@@ -4,5 +4,11 @@ Built off of Maxim's SEGA Master System "Hello World!" code found here:
 http://www.smspower.org/maxim/HowToProgram/Lesson1AllOnOnePage
 
 TO DO:
+
+
  -Debug issue with pause button interrupt handler 
+ 
+ 
  -Complete implementation of settings menu and allow user to build scales
+
+
